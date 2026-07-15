@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Kaivalya Kapole
+DOB 23/06/2008
+I am currenctly prusing my btech is CS from NMIMS 
 
 <!--
 **Kaivalya-Kapole23/Kaivalya-Kapole23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
