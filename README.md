@@ -3,4 +3,4 @@
 <p>🛠️ <b>Tech Stack & skills</b></p>
 <p>  --<b>Languages: </b>C and Python</p>
 <p>  --<b>Tools & Platforms: </b>Git, GitHub, VS Code </p>
-<p> Currently I am uploading all my collage assignment to GitHub</p>
+<p>  Currently I am uploading all my collage assignment to GitHub</p>
