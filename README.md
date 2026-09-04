@@ -6,8 +6,8 @@ I am currently pursuing my **B.Tech in Computer Science**. I use GitHub to track
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** C, Python
-- **Tools & Platforms:** Git, GitHub, VS Code, GitHub Desktop
+- **Languages:** C, Python.
+- **Tools & Platforms:** Git, GitHub, VS Code, GitHub Desktop.
 
 ---
 
